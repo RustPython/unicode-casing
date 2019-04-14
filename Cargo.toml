@@ -1,0 +1,7 @@
+[package]
+name = "unicode-casing"
+version = "0.1.0"
+authors = ["Joey Hain <jmhain@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
