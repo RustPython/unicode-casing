@@ -1,6 +1,6 @@
 [package]
 name = "unicode-casing"
-version = "0.1.0"
+version = "0.1.1"
 description = "Titlecase helper function on characters."
 repository = "https://github.com/RustPython/unicode-casing"
 license = "MIT"
