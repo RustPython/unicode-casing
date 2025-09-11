@@ -1,5 +1,4 @@
 #![no_std]
-extern crate alloc;
 
 mod bool_trie;
 mod tables;
